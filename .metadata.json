@@ -1,0 +1,14 @@
+[
+  {
+    "package": "EpiContactTrace",
+    "oncran": true
+  },
+  {
+    "package": "rmatio",
+    "oncran": true
+  },
+  {
+    "package": "SimInf",
+    "oncran": true
+  }
+]

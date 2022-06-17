@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EpiContactTrace"]
+	path = EpiContactTrace
+	url = https://github.com/stewid/epicontacttrace
+	shallow = true
+	registered = true
+[submodule "rmatio"]
+	path = rmatio
+	url = https://github.com/stewid/rmatio
+	shallow = true
+	registered = true
+[submodule "SimInf"]
+	path = SimInf
+	url = https://github.com/stewid/siminf
+	shallow = true
+	registered = true
