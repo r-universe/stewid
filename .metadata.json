@@ -1,10 +1,10 @@
 [
   {
-    "package": "rmatio",
+    "package": "EpiContactTrace",
     "oncran": true
   },
   {
-    "package": "EpiContactTrace",
+    "package": "rmatio",
     "oncran": true
   },
   {
