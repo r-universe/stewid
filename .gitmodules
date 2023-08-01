@@ -5,9 +5,9 @@
 [submodule "EpiContactTrace"]
 	path = EpiContactTrace
 	url = https://github.com/stewid/epicontacttrace
-[submodule "rmatio"]
-	path = rmatio
-	url = https://github.com/stewid/rmatio
 [submodule "SimInf"]
 	path = SimInf
 	url = https://github.com/stewid/siminf
+[submodule "rmatio"]
+	path = rmatio
+	url = https://github.com/stewid/rmatio
